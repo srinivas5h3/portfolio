@@ -26,7 +26,7 @@ h1 {
     padding: 10px;
   }
   .box{
-    border: 5px solid rgba(0, 0, 0, 0.8);
+    border: 2px solid rgba(0, 0, 0, 0.8);
     border-radius: 5px;
     width:350px;
     height: auto;
@@ -39,4 +39,8 @@ h1 {
     flex: 10%;
     justify-content: space-between;
 
+}
+.i{
+  width: 350px;
+  height: 300px;
 }
