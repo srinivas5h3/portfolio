@@ -1,10 +1,10 @@
-.header{
+header{
   display:grid;
   grid-template-columns:1fr 1fr;
   width:100%;
 
 }
-.header img {
+header img {
   width: 150px;
   height: 150px;
   background: white;
@@ -43,4 +43,7 @@ h1 {
 .i{
   width: 350px;
   height: 300px;
+}
+footer{
+  text-align: center;
 }
